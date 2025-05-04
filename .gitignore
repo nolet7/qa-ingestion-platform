@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Terraform
+.terraform/
+terraform.tfstate*
+crash.log
+
+# Logs and system files
+*.log
+*.DS_Store
+.idea/
+.vscode/
